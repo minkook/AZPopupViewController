@@ -1,6 +1,6 @@
 # AZPopupViewController
 
-[![CI Status](https://img.shields.io/travis/mkyoo/AZPopupViewController.svg?style=flat)](https://travis-ci.org/mkyoo/AZPopupViewController)
+[![CI Status](https://img.shields.io/travis/minkook/AZPopupViewController.svg?style=flat)](https://travis-ci.org/minkook/AZPopupViewController)
 [![Version](https://img.shields.io/cocoapods/v/AZPopupViewController.svg?style=flat)](https://cocoapods.org/pods/AZPopupViewController)
 [![License](https://img.shields.io/cocoapods/l/AZPopupViewController.svg?style=flat)](https://cocoapods.org/pods/AZPopupViewController)
 [![Platform](https://img.shields.io/cocoapods/p/AZPopupViewController.svg?style=flat)](https://cocoapods.org/pods/AZPopupViewController)
@@ -22,7 +22,7 @@ pod 'AZPopupViewController'
 
 ## Author
 
-mkyoo, manguksmediawill@gmail.com
+minkook, manguks@gmail.com
 
 ## License
 

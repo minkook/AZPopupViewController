@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  AZPopupViewController
 //
-//  Created by mkyoo on 03/14/2022.
-//  Copyright (c) 2022 mkyoo. All rights reserved.
+//  Created by minkook on 03/14/2022.
+//  Copyright (c) 2022 minkook. All rights reserved.
 //
 
 import UIKit
