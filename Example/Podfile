@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'AZPopupViewController_Example' do
+  pod 'AZPopupViewController', :path => '../'
+
+  target 'AZPopupViewController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
